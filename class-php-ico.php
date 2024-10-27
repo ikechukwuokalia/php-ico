@@ -190,7 +190,7 @@ class PHP_ICO {
 				$alpha = ( 1 - ( $alpha / 127 ) ) * 255;
 
 				$color &= 0xFFFFFF;
-				$color |= (int)(0xFF000000 & ( $alpha << 24 ));
+				@ $color |= (int)(0xFF000000 & ( $alpha << 24 ));
 
 				$pixel_data[] = $color;
 
