@@ -1,7 +1,7 @@
 {
     "name": "ikechukwuokalia/php-ico",
     "description": "An easy-to-use library to generate valid ICO files.",
-    "version": "1.0.4",
+    "version": "0.1",
     "keywords": ["ico", "favicon"],
     "homepage": "https://github.com/ikechukwuokalia/php-ico",
     "license": "GPL-2.0+",
